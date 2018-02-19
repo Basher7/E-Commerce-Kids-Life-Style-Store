@@ -1,6 +1,5 @@
 <p align="center"><b><span style="text-decoration: underline; font-weight: bold; font-size: 18pt;">Online Kids Life Style Store Application</span></b></p>
-<h4><b>Project Summary:</b></h4>
-<p>This online kid&rsquo;s Life style store application containing various kids product. User visiting the website can see a wide range of products arranged in respective categories. The user can search their specific kid&rsquo;s products on the website. The user can select desired product and view its price, size. Once the user selects a product they can order those products via online and able to pay online or cash on delivery. User also save product into the favorite list for future order. This online store application is easy to use, easy to buy for user. This application provides a lot of features to manage in very well manner.</p>
+
 <h4><b>Main Features:</b></h4>
 <ul>
 <li>Admin Panel
